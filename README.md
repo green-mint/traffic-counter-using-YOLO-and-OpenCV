@@ -2,7 +2,7 @@
 
 ## Video Visualization Demo
 
-<img src="demo/output.gif" alt="demo video">
+<img src="demo/traffic_counter.gif" alt="demo video">
 
 ## Data:
 The data has been obtained from a [youtube](https://www.youtube.com/watch?v=wqctLW0Hb_0&ab_channel=AndreyNikishaev) video. Click [here](https://redirector.googlevideo.com/videoplayback?expire=1607124198&ei=hnDKX5WxMqHIkwa5wYHQBA&ip=168.235.107.39&id=o-ANc_KJWH0osf1q4RGFGy2x-o3onVGBKhVvC0JcnuUzlz&itag=18&source=youtube&requiressl=yes&mh=qV&mm=31%2C26&mn=sn-a5mlrnes%2Csn-nx57ynlz&ms=au%2Conr&mv=m&mvi=2&pl=23&initcwndbps=642500&vprv=1&mime=video%2Fmp4&ns=U7RoUrI5LAco3r3Sq8mMXZIF&gir=yes&clen=107741911&ratebypass=yes&dur=2048.092&lmt=1554143545151518&mt=1607102201&fvip=2&c=WEB&txp=5431432&n=UgKjijX5a5mBq3PDD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgHCG8oY94d2YJ65gb1J_TJDvZVpdalTevgMB76Rk4xmsCIEpOYiXN423cISsX3ETanulzSS1lBnqbdPxJbakoA6NA&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAM-8C_8E_WauuIIHM-AWIpiKkC5_SpNSNxZPWfP50-6VAiEAqXOnIF2f6TA4D8W0u2XvF0BtpgbhIfLTHjTZV54VeSs%3D&title=Road+traffic+video+for+object+recognition) to download.
