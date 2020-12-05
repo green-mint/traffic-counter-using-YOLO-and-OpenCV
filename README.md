@@ -16,9 +16,20 @@ Due to the sheer size of the file I had to trim it down to approximately 30 sec 
   $ git clone https://github.com/green-mint/traffic-counter-using-YOLO.git
   $ cd traffic-counter-using-YOLO
   ```
-2. Download [yolov3.weights](https://www.dropbox.com/s/99mm7olr1ohtjbq/yolov3.weights?dl=0) and move them into the `yolov3` directory. Your diectory structure should now be similar to
+2. Download [yolov3.weights](https://www.dropbox.com/s/99mm7olr1ohtjbq/yolov3.weights?dl=0) and move them into the `yolov3` directory. Your directory structure should now be similar to
 ```
-
+├── demo
+│   └── traffic_counter.gif
+├── input.mp4
+├── README.md
+├── requirements.txt
+├── tracker.py
+├── traffic_main.py
+├── utils.py
+└── yolov3
+    ├── coco.names
+    ├── yolov3.cfg
+    └── yolov3.weights
 ```
 
 3. Create a new python virtual environment and install the required libraries by running the following commands
@@ -34,7 +45,7 @@ Due to the sheer size of the file I had to trim it down to approximately 30 sec 
   ```
   Additional optional arguments are `--confidence/-c` and `--threshold/-t` with `default=0.5` and `default=0.3` respectively
 
-## Citations 
+## Citations: 
 ### Yolo:
 ```
 @article{redmon2016yolo9000,
